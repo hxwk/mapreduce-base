@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day05_mapreduce" />
+        <module name="day01_zookeeper" />
+        <module name="day07_mapreduce" />
+        <module name="day04_hdfs" />
+        <module name="day06_mapreduce" />
+        <module name="day10_hive" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

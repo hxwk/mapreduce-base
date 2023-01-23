@@ -1,0 +1,5 @@
+hello,world,hadoop,hello,world,hadoop
+hive,flink,flume,hello,hadoop
+spark,hello,hadoop,world
+world,hadoop,spark,flink,hadoop
+flink,oozie,hive,Azkaban,flume,hadoop

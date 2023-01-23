@@ -1,0 +1,5 @@
+# Project exclude paths
+/day01_zookeeper/target/
+/day04_hdfs/target/
+/day05_mapreduce/target/
+/day10_hive/target/
